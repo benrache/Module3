@@ -2,10 +2,13 @@
 		.nav{
 			display:none;
 		}
-		h2{
-			margin-top:10px;
-		}
 	}
+
+@media (max-width: 767px){
+	h2{
+		margin-top:40px;
+	}
+}
 
 	ul{
 		text-align: center;
