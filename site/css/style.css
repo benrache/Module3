@@ -2,6 +2,9 @@
 		.nav{
 			display:none;
 		}
+		h2{
+			margin-top:10px;
+		}
 	}
 
 	ul{
