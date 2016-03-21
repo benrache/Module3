@@ -12,7 +12,16 @@
 	}
 	.jumbotron{
 		background-color: white;
+		margin-bottom: 0;
 	}
 	section{
 		background-color: gray;
+	}
+
+	h2, h3{
+		text-align: center;
+	}
+
+	#main{
+		height:1000px;
 	}
